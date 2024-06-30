@@ -1,2 +1,2 @@
 # react-practice
-First project of react(not planned by self)
+First project of react(created in tutorial)
